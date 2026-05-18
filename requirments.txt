@@ -1,0 +1,10 @@
+numpy 
+pillow
+tensorflow
+pandas
+joblib
+nfstream
+streamlit
+streamlit-autorefresh
+python-dotenv
+

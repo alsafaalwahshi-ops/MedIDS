@@ -60,11 +60,8 @@ MedIDS/
 ├── sounds/
 │   └── alert.mp3
 │
-├── screenshots/
-│   └── interface.png
 │
 └── docs/
-    ├── presentation.pdf
     └── report.pdf
 
 
